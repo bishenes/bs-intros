@@ -5,14 +5,12 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "bs-intros:toggle"
-  },
   "repository": "https://github.com/bishenes/bs-intros",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "fs-plus": "^3.0.0"
   }
 }
