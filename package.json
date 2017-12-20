@@ -1,8 +1,8 @@
 {
   "name": "bs-intros",
   "main": "./lib/bs-intros",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.1",
+  "description": "copy intros",
   "keywords": [
   ],
   "repository": "https://github.com/bishenes/bs-intros",
