@@ -1,0 +1,50 @@
+## 快捷键
+
+快捷键很方便，用熟了快捷键后，你再也不需要把双手挪开键盘，抓起鼠标点点点了。
+专注在键盘上码字这件事情很重要。
+而且，以你的记忆力，全记下来一定很容易。
+
+###基础快捷键
+`cmd-shift-n`: 新建文集
+`cmd-n`: 新建文稿
+`cmd-s`: 自动整理
+`ctrl-d`: 显示和关闭文档视图
+`ctrl-t`: 显示和关闭Markdown工具条
+`ctrl-p`: 显示和关闭预览页
+`ctrl-shift-f`: 全屏模式
+
+###程序窗口
+`cmd-m`: 最小化程序
+`cmd-q`: 退出程序
+`cmd-h`: 隐藏程序
+`cmd-option-h`: 隐藏其它程序
+
+###编辑
+
+`cmd-+`: 加大字号
+`cmd--`: 减小字号
+`cmd-0`: 重置字号
+
+----
+
+`cmd-shift-c`: 克隆本行
+`cmd-delete`: 删除光标至本行开头
+`cmd-shift-delete`: 删除本行
+`cmd-]`: 本行增加缩进
+`cmd-[`: 本行减少缩进
+`cmd-up`: 本行上移
+`cmd-down`: 本行下移
+`cmd-/`: 隐藏本行
+`cmd-j`: 合并
+
+###光标
+
+`option-up`: 光标上移至顶部
+`option-down`: 光标下移至底部
+`cmd-shift-l`: 选中本行
+`shift-up`: 光标上移选中
+`shift-down`: 光标下移选中
+`shift-left`: 光标左移选中
+`shift-right`: 光标右移选中
+`cmd-shift-up`: 光标上移至顶部全部选中
+`cmd-shift-down`: 光标下移至底部全部选中

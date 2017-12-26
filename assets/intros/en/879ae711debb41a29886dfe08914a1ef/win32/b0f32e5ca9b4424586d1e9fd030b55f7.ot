@@ -1,0 +1,42 @@
+## 快捷键
+
+快捷键很方便，用熟了快捷键后，你再也不需要把双手挪开键盘，抓起鼠标点点点了。
+专注在键盘上码字这件事情很重要。
+而且，以你的记忆力，全记下来一定很容易。
+
+###基础快捷键
+`ctrl-shift-n`: 新建文集
+`ctrl-n`: 新建文稿
+`ctrl-s`: 自动整理
+`ctrl-1`: 全屏模式
+`ctrl-2`: 显示和关闭文档视图
+`ctrl-3`: 显示和关闭预览页
+`ctrl-4`: 显示和关闭Markdown工具条
+
+###编辑
+`cmd-+`: 加大字号
+`cmd--`: 减小字号
+`cmd-0`: 重置字号
+
+----
+
+`ctrl-shift-c`: 克隆本行
+`ctrl-shift-delete`: 删除本行
+`ctrl-]`: 本行增加缩进
+`ctrl-[`: 本行减少缩进
+`ctrl-up`: 本行上移
+`ctrl-down`: 本行下移
+`ctrl-/`: 隐藏本行
+`ctrl-j`: 合并
+
+###光标
+
+`ctrl-home`: 光标上移至顶部
+`ctrl-end`: 光标下移至底部
+`ctrl-l`: 选中本行
+`shift-up`: 光标上移选中
+`shift-down`: 光标下移选中
+`shift-left`: 光标左移选中
+`shift-right`: 光标右移选中
+`ctrl-shift-home`: 光标上移至顶部全部选中
+`ctrl-shift-end`: 光标下移至底部全部选中
