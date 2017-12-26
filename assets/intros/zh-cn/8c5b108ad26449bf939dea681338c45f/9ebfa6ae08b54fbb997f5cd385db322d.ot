@@ -1,0 +1,72 @@
+## 高级用法
+
+我有一些高级技能。先来吓吓你。
+
+\[
+R_{\mu \nu}- {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+\]
+
+酷吧，我是支持LaTeX的。
+
+>LaTeX（LATEX，音译“拉泰赫”）是一种基于ΤΕΧ的排版系统，由美国计算机学家莱斯利·兰伯特（Leslie Lamport）在20世纪80年代初期开发，利用这种格式，即使使用者没有排版和程序设计的知识也可以充分发挥由TeX所提供的强大功能，能在几天，甚至几小时内生成很多具有书籍质量的印刷品。对于生成复杂表格和数学公式，这一点表现得尤为突出。因此它非常适用于生成高印刷质量的科技和数学类文档。这个系统同样适用于生成从简单的信件到完整书籍的所有其他种类的文档。
+
+####希腊字符：
+\[
+\alpha \quad \beta \quad \gamma \quad \delta \quad \epsilon \quad \zeta \quad \eta \quad \theta \quad \iota \quad \kappa \quad \lambda \quad \mu \\
+\nu \quad \xi \quad o \quad \pi \quad \rho \quad \sigma \quad \tau \quad \upsilon \quad \phi \quad \chi \quad \psi \quad \omega
+\]
+
+####箭头：
+\[
+\leftarrow \quad \rightarrow \quad \uparrow \quad \downarrow  \quad \leftrightarrow  \quad \updownarrow\\
+\Leftarrow \quad \Rightarrow \quad \Uparrow \quad \Downarrow  \quad \Leftrightarrow \quad \Updownarrow\\
+\rightleftharpoons \quad \mapsto \quad \longmapsto\\
+\nearrow \quad \searrow \quad \swarrow \quad \nwarrow\\
+\leftharpoonup \quad \rightharpoonup \quad \leftharpoondown \quad \rightharpoondown\\
+\]
+
+####运算符：
+\[
+\times \quad \div \quad \leq \quad \geq \quad \simeq \quad \approx  \quad \equiv \quad \cong\\
+\emptyset \quad \varnothing \quad \cup \quad \cap  \quad \exists \quad \nexists \quad \in \quad \notin\\
+\]
+
+####其它
+\[
+\infty \quad \forall \quad \Re \quad \Im \quad \nabla \quad \partial  \quad \wp \quad \neg \quad \blacksquare \quad \complement \quad \\
+\cdots \quad \surd \quad \triangle  \quad \otimes \quad \wedge \quad \vee \quad \oplus \quad \otimes \quad \Box \quad \boxtimes\\
+\]
+
+####一些例子
+
+还有些很牛逼的表达式，比如这些：
+\[
+\int_0^2x^2dx
+\]
+\[
+\left.\frac{1}{1+x^2}\right|_0^\infty
+\]
+\[
+ \Bigg \langle 3x+7 \bigg \rangle
+\]
+
+\[
+c_i =
+\begin{cases}
+1 & L (Q_i) < 0 \\
+0 & L (Q_i) \geq 0
+\end{cases}
+\]
+\[
+\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}
+\]
+\[
+\prod_{i=1}^ni=n!
+\]
+
+----
+
+好吧，其实LaTeX有很多用法，这里就不详细说了。如果你想要深入了解，可以去网上查找LaTeX的说明文档。
+
+你只要记住，笔神是最好的LaTeX书写工具就可以了。
