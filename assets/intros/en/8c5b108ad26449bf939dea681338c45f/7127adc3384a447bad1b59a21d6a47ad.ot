@@ -22,12 +22,12 @@ _斜体_: 输入 i
 
 ----
 
-~~删除线~~：输入 d
-![d的效果](d.jpg)
+~~删除线~~：输入 s, 选择strikethrough text
+![d的效果](strikethrough.jpg)
 
 ----
 
-分隔线：输入 s
+分隔线：输入 s, 选择separator
 ![s的效果](sep.jpg)
 
 ----
