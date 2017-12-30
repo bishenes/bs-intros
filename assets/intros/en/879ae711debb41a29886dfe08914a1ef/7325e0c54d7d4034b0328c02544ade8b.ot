@@ -1,23 +1,22 @@
-## 好吧，那我该怎么...?
+## Ok, but How Do I…?
 
-OK，我简单介绍一下哈。
+Let’s first get you some sense of direction. Here is an UI-overview from left to right:
+-  library
+-  sheet list
+-  editor
+-  preview
+-  toolbar
 
-用户界面概览（从左到右）：
+The _library_ lets you access all your texts and is divided into sections. 
 
-- 文库
-- 文稿列表
-- 编辑器
-- 预览
-- 工具条
+The _sheet list_ is where all your texts reside. when you select a certain work, all the texts inside will be show here.
 
-_文库_ 所有作品都在这里。
+And this here is the _editor_.
 
-_文稿列表_ 包括了您所有的文本。点击选中某个作品后，会看到这个作品所包含的所有文稿。
+The _preview_offers WYSIWYG (What You See Is What You Get) styles and formats. 
 
-_编辑器_ 不多说了吧。
+Want to know what will happen to the format? Just click the buttons on the _toolbar_ .
 
-_预览_ 记得我说过我也是有格式的吗？格式的预览效果就在这里显示了，所见即所得哦。
-
-_工具条_ 这些格式怎么用？挨个点击一下工具条的按钮就知道了。
+To switch between three pane (library, sheet list and editor), two pane (sheet list and editor) and editor only view, use the shortcuts `⌘1`, `⌘2` and `⌘3`. You can also switch views via the leftmost toolbar button.
 
 请使用快捷键`⌘1`、`⌘2`和`⌘3`在三窗格（文库、文稿列表和编辑器）、两窗格（文稿列表和编辑器）和仅编辑器视图之间切换。您还可以最左侧的工具栏按钮切换视图。
