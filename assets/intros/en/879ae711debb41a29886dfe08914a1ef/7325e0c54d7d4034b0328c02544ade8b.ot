@@ -17,6 +17,5 @@ The _preview_offers WYSIWYG (What You See Is What You Get) styles and formats.
 
 Want to know what will happen to the format? Just click the buttons on the _toolbar_ .
 
-To switch between three pane (library, sheet list and editor), two pane (sheet list and editor) and editor only view, use the shortcuts `⌘1`, `⌘2` and `⌘3`. You can also switch views via the leftmost toolbar button.
+To switch between four pane (library, editor, preview and toolbar), three pane (library, editor and preview), two pane (library and editor) and editor only view, use the shortcuts `⌘1`, `⌘2`, `⌘3`, `⌘4`. You can also switch views via the top left toolbar button.
 
-请使用快捷键`⌘1`、`⌘2`和`⌘3`在三窗格（文库、文稿列表和编辑器）、两窗格（文稿列表和编辑器）和仅编辑器视图之间切换。您还可以最左侧的工具栏按钮切换视图。
