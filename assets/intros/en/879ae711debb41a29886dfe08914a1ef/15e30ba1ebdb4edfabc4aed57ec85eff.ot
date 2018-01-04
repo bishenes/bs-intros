@@ -2,28 +2,25 @@
 
 As you have known, I’m a plain-text editor.
 
-格式都是用特殊的字符表示的。
+And, formatting is carried out by typing certain characters within the text.
 
+When you use the format characters, the formatted characters will change colors to notice you “it’s formatted”.
 
-一旦字符触发了一种格式，他的颜色就会改变。而你就可以知道，"哦，这是一种格式"。
+At the same time, you can see the WYSIWYG formatted preview on the right side.
 
-你也可以同时在预览中看到所触发的格式的所见即所得的效果。
+Here are some examples:
 
-比如这样：
+# Need a first class title? here is one.
+## Need a second class title? here is one.
+### …
+#### …
 
-要标记某个 _标题_，用一个或多个井号开始一行。井号的数量与标题的分层级别相对应。也就是说，为二级标题键入 `##`，为三级标题键入 `###`，以此类推。
+> Need a quote?
+> Create a quote.
 
-# 创建第一个标题。
-## 创建第二个标题。
-### 创建第三个标题。
+Want to _emphasize_ some words or phrases? or what to **mark them in bold**？Just do it. 
 
-如果您想 _强调_ 某个字或短语，或将其标记为**重要的粗体**。
-
-如果您想创建 _引用块_，比如提供格言或突出显示更有名人物的名言，只需使用 `>` 开始这一行：
-> 笔神是世界上最牛逼的编辑器。
-> (Bi Shen)
-
-更多的关于格式的详细介绍请移步“使用说明”->“格式”。
+Want to know more about format? Click on `"introduction" -> "format"`.
 
 ----
 
@@ -34,4 +31,4 @@ As you have known, I’m a plain-text editor.
 纯语义、极简风、新复古风。
 就是我们的设计理念。
 
-享受吧！
+Hope you enjoy it!
