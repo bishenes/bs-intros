@@ -1,46 +1,48 @@
 ## basic format
 
 
-写作阶段你能用到的格式都在这里找：
+You can find almost every format character you need when you are writing here:
 
-# 创建第一个标题。
-## 创建第二个标题。
-### 创建第三个标题。
-#### 创建第四个标题。
-##### 创建第五个标题。
-###### 创建第六个标题。
-
-----
-给这个**字**加粗
-让这个 _字_ 显示斜体
-让这个没用的~~字~~显示像是被删除一样
-> 创建一个引用。
-
-利用_分隔线_，您可以进行分隔。比方说，对文本分段。
+# Create a heading.
+## Create a secondary heading.
+### Create a third level heading.
+#### Create a fourth level heading.
+##### Create a fifth level heading.
+###### Create a sixth level heading.
 
 ----
-只需在开头键入短横线或数字，即可创建 _有序_ 或 _无序列表_。
+Make the **word** bold.
+Make the _word_ italic.
+~~Line through the text~~
+> Create a quote.
 
-- 我是一个无序列表
-- 我是一个无序列表
-- 我是一个无序列表
-
-1. 我是一个有序列表
-2. 我是一个有序列表
-3. 我是一个有序列表
-
-- [ ]我是一个任务列表
-- [ ]我也是一个个任务列表
+Use _dividing lines_ to divide paragraphs or passages:
 
 ----
+
+Create a unordered or a numbered list by typing a `"- "` or a `"number."` at the beginning of the line like this: 
+
+- I am a unordered list
+- I am a unordered list
+- I am a unordered list
+
+1. I am a numbered list
+2. I am a numbered list
+3. I am a numbered list
+
+----
+
 我是一个指向[百度](http://www.baidu.com)的链接
 
-我还可以插入一张网络图片
+I am a link to [Baidu](http://www.baidu.com).
 
-![图片](http://img1.imgtn.bdimg.com/it/u=1980976190,1437377099&fm=27&gp=0.jpg)
+here is a picture from the internet:
+
+[picture](http://img1.imgtn.bdimg.com/it/u=1980976190,1437377099&fm=27&gp=0.jpg)
 
 ----
-这是一段代码。
+
+here is a piece of code:
 
 `int i = 1;`
 
@@ -50,9 +52,10 @@ fenced
 codeblock
 ```
 ----
-还可以插入一个表格。
 
-标题一  |  标题二 | 标题三
+Even you can create a form here:
+
+title 1  |  title 2 | title 3
 --|---|--
-我  |  是 | 表格一
-我  |  是 | 表格二
+I  |  am | row 1
+I  |  am | row 2
