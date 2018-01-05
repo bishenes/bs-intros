@@ -67,29 +67,32 @@ For instance：[onepen logo](http://www.bishen.ink)
 
 ----
 
-有序列表：输入 l, 选择list--1
-![有序列表的效果](list-1.jpg)
+Ordered list：type a " l", and selcet "list--1"
+![Ordered list](list-1.jpg)
 
 ----
 
-无序列表：输入 l, 选择list--o
-![有序列表的效果](list-o.jpg)
+Unordered list：type a " l", and selcet "list--o"
+![Unordered list](list-o.jpg)
 
 ----
 
-表格：输入 t
-![表格的效果](t.jpg)
-在下面自动生成的模板里任意修改标题和内容：
+Table：type a " t"
+![Table](t.jpg)
+
+And then replace the content in the template:
 
 Header One | Header Two
 ---------- | ----------
 Item One   | Item Two
 
-举例：
+For example：
 
-笔神的优点  | 笔神的缺点
+OnePen's advantages  | OnePen's disadvantages
 ------ | -----
-自动生成格式 | 太低调
-免费     | 不注重盈利
+automatical format | too easy
+for free     | think little of profit
 
-友情提示：在每行表格的最后一个字符按回车，可以自动生成下一行表格所需要的格式。
+A sweet tip: press the Enter button at the end of the row, there will show up a new row template. 
+
+Don't hesitate to have a try!
