@@ -1,65 +1,69 @@
-## 自动生成格式
+## Auto-generated format
 
-万一你记不住格式，你可以用一个很**酷**的方法来自动生成格式
 
-很好玩，你一定要试一下：
+Here is a **funny** way to automatically generate format for your writing.
+
+Let's try!
+
+----
+### Third level heading: type a " h"(remember the spacebar).
+![h](h.jpg)
 
 ----
 
-###三级标题：输入 h(记得前面需要有个空格)
-![h的效果](h.jpg)
+**Bold**：type a " b"(remember the spacebar).
+
+![b](b.jpg)
 
 ----
 
-**粗体**：输入 b(记得前面需要有个空格)
+Similarly:
 
-![b的效果](b.jpg)
-
-----
-
-_斜体_: 输入 i
-![i的效果](i.jpg)
+_Italic_: type a " i".
+![i](i.jpg)
 
 ----
 
-~~删除线~~：输入 s, 选择strikethrough text
-![d的效果](strikethrough.jpg)
+~~Strikethrough~~: type a " s", and select "strikethrough text".
+![str](strikethrough.jpg)
 
 ----
 
-分隔线：输入 s, 选择separator
-![s的效果](sep.jpg)
+Separator：type a " s", and selcet "separator".
+![sep](sep.jpg)
 
 ----
 
-`带背景色：输入 b, 选择background`
-![background的效果](background.jpg)
+`Colored background：type a " b", and select "background"`.
+![background](background.jpg)
 
 ----
 
 ```
-背景色块文字：
-输入 b
-选择background block
+Colored-background block：
+type a " b"
+and selcet "background block".
 ```
 
-![background block的效果](backgroundblock.jpg)
+![background block](backgroundblock.jpg)
 
 ----
 
-链接：输入 l
-![link的效果](link.jpg)
-将自动生成的模板[title](url)改为你所需要的链接，在[]里填标题，在()里填url的地址。
-举例：[onepen](http://www.bishen.ink)
+Link：type a " l"
+![link](link.jpg)
+
+You can put your own target link here by changing the template -- [title](url). Fill the title of the link in "[]", and url in "()".
+For instance: [onepen](http://www.bishen.ink).
 
 ----
 
-图片：输入 i, 选择img 
-![img的效果](img.jpg)
-将自动生成的模板[title](url)改为你所需要的图片链接，在[]里填标题，在()里填url的地址。
-举例：[onepen logo](http://www.bishen.ink)
+Image：type a " i", and selcet "img" 
+![img](img.jpg)
 
-（如果本地图片，推荐直接拖拽文中，也可以通过剪切板复制粘贴）
+You can put your own target image link here by changing the template -- [title](url). Fill the title of the link in "[]", and url in "()".
+For instance：[onepen logo](http://www.bishen.ink)
+
+（You can also put the image in your computer to your OnePen Writing by draging and droping, or by copying and pasting）
 
 ----
 
