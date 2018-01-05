@@ -1,39 +1,42 @@
-## 快捷键
+## Shortcuts
 
-快捷键很方便，用熟了快捷键后，你再也不需要把双手挪开键盘，抓起鼠标点点点了。
-专注在键盘上码字这件事情很重要。
-而且，以你的记忆力，全记下来一定很容易。
+I don't know whether you have enjoyed the convenince of shrtcuts. 
 
-###基础快捷键
-`ctrl-shift-n`: 新建文集
-`ctrl-n`: 新建文稿
-`ctrl-s`: 自动整理
-`ctrl-1`: 全屏模式
-`ctrl-2`: 显示和关闭文档视图
-`ctrl-3`: 显示和关闭预览页
-`ctrl-4`: 显示和关闭Markdown工具条
+But I know, when you are familiar with them, you will never need the annoying mouse when writing, 
 
-###编辑
-`cmd-+`: 加大字号
-`cmd--`: 减小字号
-`cmd-0`: 重置字号
+which means, you can be more focused on writing, pure and distraction free writing.
+
+
+### Basic Operation
+`ctrl-shift-n`: to create a new work
+`ctrl-n`: to create a new sheet
+`ctrl-s`: to start automatical format
+`ctrl-1`: to toggle Full Screen Mode
+`ctrl-2`: to toggle Library and Sheet List
+`ctrl-3`: to toggle Preview
+`ctrl-4`: to show Markdown Toolbar
+
+### Editing
+`cmd-+`: to increase font size
+`cmd--`: to decrease font size
+`cmd-0`: to reset the font size
 
 ----
 
-`ctrl-shift-c`: 克隆本行
-`ctrl-shift-delete`: 删除本行
-`ctrl-]`: 本行增加缩进
-`ctrl-[`: 本行减少缩进
-`ctrl-up`: 本行上移
-`ctrl-down`: 本行下移
-`ctrl-/`: 隐藏本行
-`ctrl-j`: 合并
+`ctrl-shift-c`: to duplicate the line
+`ctrl-shift-delete`: to delete the line
+`ctrl-]`: to increase indentation
+`ctrl-[`: to decrease indentation
+`ctrl-up`: to move the line up
+`ctrl-down`: to move the line down
+`ctrl-/`: to hide the line
+`ctrl-j`: to merge the lines
 
-###光标
+### Cursor
 
-`ctrl-home`: 光标上移至顶部
-`ctrl-end`: 光标下移至底部
-`ctrl-l`: 选中本行
+`ctrl-home`: to move the cursor to the top
+`ctrl-end`: to move the cursor to the bottom
+`ctrl-l`: to select the line
 `shift-up`: 光标上移选中
 `shift-down`: 光标下移选中
 `shift-left`: 光标左移选中
