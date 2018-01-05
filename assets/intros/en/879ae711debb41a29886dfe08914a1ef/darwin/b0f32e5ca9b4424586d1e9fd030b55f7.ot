@@ -16,11 +16,11 @@ which means, you can be more focused on writing, pure and distraction free writi
 `ctrl-p`: to toggle Preview
 `ctrl-shift-f`: to toggle Full Screen Mode
 
-### 
-`cmd-m`: 最小化程序
-`cmd-q`: 退出程序
-`cmd-h`: 隐藏程序
-`cmd-option-h`: 隐藏其它程序
+### Program windows
+`cmd-m`: to minimize the program window
+`cmd-q`: to exit the program
+`cmd-h`: to hide the program window
+`cmd-option-h`: to hide all the other programs' windows
 
 ### Editing
 
@@ -31,7 +31,7 @@ which means, you can be more focused on writing, pure and distraction free writi
 ----
 
 `cmd-shift-c`: to duplicate the line
-`cmd-delete`: 删除光标至本行开头
+`cmd-delete`: delete all the content before the cursor till the beginning of this line
 `cmd-shift-delete`: to delete the line
 `cmd-]`: to increase indentation
 `cmd-[`: to decrease indentation
