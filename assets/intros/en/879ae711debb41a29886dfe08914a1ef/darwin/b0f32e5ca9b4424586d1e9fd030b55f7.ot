@@ -1,50 +1,53 @@
-## 快捷键
+## Shortcuts
 
-快捷键很方便，用熟了快捷键后，你再也不需要把双手挪开键盘，抓起鼠标点点点了。
-专注在键盘上码字这件事情很重要。
-而且，以你的记忆力，全记下来一定很容易。
+I don't know whether you have enjoyed the convenince of shrtcuts. 
 
-###基础快捷键
-`cmd-shift-n`: 新建文集
-`cmd-n`: 新建文稿
-`cmd-s`: 自动整理
-`ctrl-d`: 显示和关闭文档视图
-`ctrl-t`: 显示和关闭Markdown工具条
-`ctrl-p`: 显示和关闭预览页
-`ctrl-shift-f`: 全屏模式
+But I know, when you are familiar with them, you will never need the annoying mouse when writing, 
 
-###程序窗口
+which means, you can be more focused on writing, pure and distraction free writing.
+
+
+### Basic Operation
+`cmd-shift-n`: to create a new work
+`cmd-n`: to create a new sheet
+`cmd-s`: to start the automatical format
+`ctrl-d`: to toggle Library and Sheet List
+`ctrl-t`: to show Markdown Toolbar
+`ctrl-p`: to toggle Preview
+`ctrl-shift-f`: to toggle Full Screen Mode
+
+### 
 `cmd-m`: 最小化程序
 `cmd-q`: 退出程序
 `cmd-h`: 隐藏程序
 `cmd-option-h`: 隐藏其它程序
 
-###编辑
+### Editing
 
-`cmd-+`: 加大字号
-`cmd--`: 减小字号
-`cmd-0`: 重置字号
+`cmd-+`: to increase the font size
+`cmd--`: to decrease the font size
+`cmd-0`: to reset the font size
 
 ----
 
-`cmd-shift-c`: 克隆本行
+`cmd-shift-c`: to duplicate the line
 `cmd-delete`: 删除光标至本行开头
-`cmd-shift-delete`: 删除本行
-`cmd-]`: 本行增加缩进
-`cmd-[`: 本行减少缩进
-`cmd-up`: 本行上移
-`cmd-down`: 本行下移
-`cmd-/`: 隐藏本行
-`cmd-j`: 合并
+`cmd-shift-delete`: to delete the line
+`cmd-]`: to increase indentation
+`cmd-[`: to decrease indentation
+`cmd-up`: to move the line up
+`cmd-down`: to move the line down
+`cmd-/`: to hide the line
+`cmd-j`: to merge the lines
 
-###光标
+### Cursor
 
-`option-up`: 光标上移至顶部
-`option-down`: 光标下移至底部
-`cmd-shift-l`: 选中本行
-`shift-up`: 光标上移选中
-`shift-down`: 光标下移选中
-`shift-left`: 光标左移选中
-`shift-right`: 光标右移选中
-`cmd-shift-up`: 光标上移至顶部全部选中
-`cmd-shift-down`: 光标下移至底部全部选中
+`option-up`: to move the cursor to the top
+`option-down`: to move the cursor to the bottom
+`cmd-shift-l`: to select the line
+`shift-up`: select the content above the cursor
+`shift-down`: select the content below the cursor
+`shift-left`: select the content before the cursor
+`shift-right`: select the content after the cursor
+`cmd-shift-up`: select the content all before the cursor till the top
+`cmd-shift-down`: select the content all after the cursor till the bottom
