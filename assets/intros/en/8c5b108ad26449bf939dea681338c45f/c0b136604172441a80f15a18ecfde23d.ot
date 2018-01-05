@@ -13,30 +13,29 @@ You can find almost every format character you need when you are writing here:
 ----
 Make the **word** bold.
 Make the _word_ italic.
-~~Line through the text~~
+~~Strikethrough~~
 > Create a quote.
 
-Use _dividing lines_ to divide paragraphs or passages:
+Use _separators_ to divide paragraphs or passages:
 
 ----
 
-Create a unordered or a numbered list by typing a `"- "` or a `"number."` at the beginning of the line like this: 
+Create a unordered or a ordered list by typing a `"- "` or a `"number."` at the beginning of the line like this: 
 
 - I am a unordered list
 - I am a unordered list
 - I am a unordered list
 
-1. I am a numbered list
-2. I am a numbered list
-3. I am a numbered list
+1. I am a ordered list
+2. I am a ordered list
+3. I am a ordered list
 
 ----
 
-我是一个指向[百度](http://www.baidu.com)的链接
 
 I am a link to [Baidu](http://www.baidu.com).
 
-here is a picture from the internet:
+Here is a picture from the internet:
 
 [picture](http://img1.imgtn.bdimg.com/it/u=1980976190,1437377099&fm=27&gp=0.jpg)
 
@@ -53,7 +52,7 @@ codeblock
 ```
 ----
 
-Even you can create a form here:
+Even you can create a table here:
 
 title 1  |  title 2 | title 3
 --|---|--
