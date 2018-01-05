@@ -1,8 +1,6 @@
 ## editor&preview：
 
-As you have known, I’m a plain-text editor.
-
-And, formatting is carried out by typing certain characters within the text.
+As you have known, I’m a plain-text editor. And, format is carried out by typing certain characters within the text.
 
 When you use the format characters, the formatted characters will change colors to notice you “it’s formatted”.
 
@@ -10,8 +8,8 @@ At the same time, you can see the WYSIWYG formatted preview on the right side.
 
 Following are some examples:
 
-# Need a first class title? here is one.
-## Need a second class title? here is one.
+# Need a heading? here is one.
+## Need a secondary heading? here is one.
 ### …
 #### …
 
