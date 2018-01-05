@@ -10,15 +10,15 @@ which means, you can be more focused on writing, pure and distraction free writi
 ### Basic Operation
 `ctrl-shift-n`: to create a new work
 `ctrl-n`: to create a new sheet
-`ctrl-s`: to start automatical format
+`ctrl-s`: to start the automatical format
 `ctrl-1`: to toggle Full Screen Mode
 `ctrl-2`: to toggle Library and Sheet List
 `ctrl-3`: to toggle Preview
 `ctrl-4`: to show Markdown Toolbar
 
 ### Editing
-`cmd-+`: to increase font size
-`cmd--`: to decrease font size
+`cmd-+`: to increase the font size
+`cmd--`: to decrease the font size
 `cmd-0`: to reset the font size
 
 ----
