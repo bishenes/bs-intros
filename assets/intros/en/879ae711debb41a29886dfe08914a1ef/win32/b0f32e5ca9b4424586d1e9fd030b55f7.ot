@@ -37,9 +37,9 @@ which means, you can be more focused on writing, pure and distraction free writi
 `ctrl-home`: to move the cursor to the top
 `ctrl-end`: to move the cursor to the bottom
 `ctrl-l`: to select the line
-`shift-up`: 光标上移选中
-`shift-down`: 光标下移选中
-`shift-left`: 光标左移选中
-`shift-right`: 光标右移选中
-`ctrl-shift-home`: 光标上移至顶部全部选中
-`ctrl-shift-end`: 光标下移至底部全部选中
+`shift-up`: select the content above the cursor
+`shift-down`: select the content below the cursor
+`shift-left`: select the content before the cursor
+`shift-right`: select the content after the cursor
+`ctrl-shift-home`: select the content all before the cursor till the top
+`ctrl-shift-end`: select the content all after the cursor till the bottom
