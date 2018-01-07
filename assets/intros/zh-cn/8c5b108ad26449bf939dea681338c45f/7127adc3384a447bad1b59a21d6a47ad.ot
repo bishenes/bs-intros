@@ -57,7 +57,7 @@ _斜体_: 输入 i
 图片：输入 i, 选择img 
 ![img的效果](img.jpg)
 将自动生成的模板[title](url)改为你所需要的图片链接，在[]里填标题，在()里填url的地址。
-举例：[onepen logo](http://www.bishen.ink/images/logo/512.png)
+举例：![onepen logo](http://www.bishen.ink/images/logo/512.png)
 
 （如果本地图片，推荐直接拖拽文中，也可以通过剪切板复制粘贴）
 
