@@ -5,7 +5,7 @@ Let’s first get you some sense of direction. Here is an UI-overview from left 
 -  sheet list
 -  editor
 -  preview
--  toolbar (Use `⌘4` to toggle it.)
+-  toolbar (Use `⌘4` or `ctrl 4` to toggle it.)
 
 The _library_ lets you access all your texts and is divided into sections. 
 
