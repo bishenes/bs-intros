@@ -28,7 +28,7 @@ which means, you can be more focused on writing, pure and distraction free writi
 `cmd--`: to decrease the font size
 `cmd-0`: to reset the font size
 
-----
+---
 
 `cmd-shift-c`: to duplicate the line
 `cmd-delete`: delete all the content before the cursor till the beginning of this line
