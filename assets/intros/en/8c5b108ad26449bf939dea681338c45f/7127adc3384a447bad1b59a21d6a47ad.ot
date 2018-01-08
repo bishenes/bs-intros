@@ -5,39 +5,39 @@ Here is a **funny** way to automatically generate format for your writing.
 
 Let's try!
 
-----
+---
 ### Third level heading: type a " h"(remember the spacebar).
 ![h](h.jpg)
 
-----
+---
 
 **Bold**：type a " b"(remember the spacebar).
 
 ![b](b.jpg)
 
-----
+---
 
 Similarly:
 
 _Italic_: type a " i".
 ![i](i.jpg)
 
-----
+---
 
 ~~Strikethrough~~: type a " s", and select "strikethrough text".
 ![str](strikethrough.jpg)
 
-----
+---
 
 Separator：type a " s", and selcet "separator".
 ![sep](sep.jpg)
 
-----
+---
 
 `Colored background：type a " b", and select "background"`.
 ![background](background.jpg)
 
-----
+---
 
 ```
 Colored-background block：
@@ -47,7 +47,7 @@ and selcet "background block".
 
 ![background block](backgroundblock.jpg)
 
-----
+---
 
 Link：type a " l"
 ![link](link.jpg)
@@ -55,7 +55,7 @@ Link：type a " l"
 You can put your own target link here by changing the template -- [title](url). Fill the title of the link in "[]", and url in "()".
 For instance: [onepen](http://www.bishen.ink).
 
-----
+---
 
 Image：type a " i", and selcet "img" 
 ![img](img.jpg)
@@ -65,17 +65,17 @@ For instance：![onepen logo](http://www.bishen.ink/images/logo/512.png)
 
 （You can also put the image in your computer to your Onepen writing by draging and droping, or by copying and pasting）
 
-----
+---
 
 Ordered list：type a " l", and selcet "list--1"
 ![Ordered list](list-1.jpg)
 
-----
+---
 
 Unordered list：type a " l", and selcet "list--o"
 ![Unordered list](list-o.jpg)
 
-----
+---
 
 Table：type a " t"
 ![Table](t.jpg)
