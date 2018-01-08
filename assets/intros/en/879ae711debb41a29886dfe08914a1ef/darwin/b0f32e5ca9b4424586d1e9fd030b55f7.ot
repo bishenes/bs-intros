@@ -10,7 +10,7 @@ which means, you can be more focused on writing, pure and distraction free writi
 ### Basic Operation
 `cmd-shift-n`: to create a new work
 `cmd-n`: to create a new sheet
-`cmd-s`: to start the automatical format
+`cmd-s`: to start the automatic format
 `ctrl-d`: to toggle Library and Sheet List
 `ctrl-t`: to show Markdown Toolbar
 `ctrl-p`: to toggle Preview
