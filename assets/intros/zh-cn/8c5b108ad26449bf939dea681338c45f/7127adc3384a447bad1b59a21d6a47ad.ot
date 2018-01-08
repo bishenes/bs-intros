@@ -4,38 +4,38 @@
 
 很好玩，你一定要试一下：
 
-----
+---
 
 ###三级标题：输入 h(记得前面需要有个空格)
 ![h的效果](h.jpg)
 
-----
+---
 
 **粗体**：输入 b(记得前面需要有个空格)
 
 ![b的效果](b.jpg)
 
-----
+---
 
 _斜体_: 输入 i
 ![i的效果](i.jpg)
 
-----
+---
 
 ~~删除线~~：输入 s, 选择strikethrough text
 ![d的效果](strikethrough.jpg)
 
-----
+---
 
 分隔线：输入 s, 选择separator
 ![s的效果](sep.jpg)
 
-----
+---
 
 `带背景色：输入 b, 选择background`
 ![background的效果](background.jpg)
 
-----
+---
 
 ```
 背景色块文字：
@@ -45,14 +45,14 @@ _斜体_: 输入 i
 
 ![background block的效果](backgroundblock.jpg)
 
-----
+---
 
 链接：输入 l
 ![link的效果](link.jpg)
 将自动生成的模板[title](url)改为你所需要的链接，在[]里填标题，在()里填url的地址。
 举例：[onepen](http://www.bishen.ink)
 
-----
+---
 
 图片：输入 i, 选择img 
 ![img的效果](img.jpg)
@@ -61,17 +61,17 @@ _斜体_: 输入 i
 
 （如果本地图片，推荐直接拖拽文中，也可以通过剪切板复制粘贴）
 
-----
+---
 
 有序列表：输入 l, 选择list--1
 ![有序列表的效果](list-1.jpg)
 
-----
+---
 
 无序列表：输入 l, 选择list--o
 ![有序列表的效果](list-o.jpg)
 
-----
+---
 
 表格：输入 t
 ![表格的效果](t.jpg)
