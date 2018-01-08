@@ -10,7 +10,7 @@ You can find almost every format character you need when you are writing here:
 ##### Create a fifth level heading.
 ###### Create a sixth level heading.
 
-----
+---
 Make the **word** bold.
 Make the _word_ italic.
 ~~Strikethrough~~
@@ -18,7 +18,7 @@ Make the _word_ italic.
 
 Use _separators_ to divide paragraphs or passages:
 
-----
+---
 
 Create a unordered or a ordered list by typing a `"- "` or a `"number."` at the beginning of the line like this: 
 
@@ -30,7 +30,7 @@ Create a unordered or a ordered list by typing a `"- "` or a `"number."` at the 
 2. I am a ordered list
 3. I am a ordered list
 
-----
+---
 
 
 I am a link to [Baidu](http://www.baidu.com).
@@ -39,7 +39,7 @@ Here is a picture from the internet:
 
 ![picture](http://img1.imgtn.bdimg.com/it/u=1980976190,1437377099&fm=27&gp=0.jpg)
 
-----
+---
 
 here is a piece of code:
 
@@ -50,7 +50,7 @@ This is a
 fenced
 codeblock
 ```
-----
+---
 
 Even you can create a table here:
 
