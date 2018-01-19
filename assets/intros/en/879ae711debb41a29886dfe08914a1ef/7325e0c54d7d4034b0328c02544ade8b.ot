@@ -4,8 +4,9 @@ Let’s first get you some sense of direction. Here is an UI-overview from left 
 -  library
 -  sheet list
 -  editor
+-  toolbar (Use `⌘3` or `ctrl4` to toggle it.)
 -  preview
--  toolbar (Use `⌘4` or `ctrl4` to toggle it.)
+
 
 The _library_ lets you access all your texts and is divided into sections. 
 
@@ -13,9 +14,9 @@ The _sheet list_ is where all your texts reside. when you select a certain work,
 
 And this here is the _editor_.
 
-The _preview_offers WYSIWYG (What You See Is What You Get) styles and formats. 
-
 Want to know what will happen to the format? Just click the buttons on the _toolbar_ .
+
+The _preview_offers WYSIWYG (What You See Is What You Get) styles and formats. 
 
 To switch between four pane (library, editor, preview and toolbar), three pane (library, editor and preview), two pane (library and editor) and editor only view, use the shortcuts `⌘1`, `⌘2`, `⌘3`, `⌘4`. You can also switch views via the top left toolbar button.
 
