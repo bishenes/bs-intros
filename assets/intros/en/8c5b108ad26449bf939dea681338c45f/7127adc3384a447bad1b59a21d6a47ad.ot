@@ -53,7 +53,7 @@ Link：type a " l"
 ![link](link.jpg)
 
 You can put your own target link here by changing the template -- [title](url). Fill the title of the link in "[]", and url in "()".
-For instance: [onepen](http://www.bishen.ink).
+For instance: [Beepen](http://www.bishen.ink).
 
 ---
 
@@ -61,9 +61,9 @@ Image：type a " i", and selcet "img"
 ![img](img.jpg)
 
 You can put your own target image link here by changing the template -- [title](url). Fill the title of the link in "[]", and url in "()".
-For instance：![onepen logo](http://www.bishen.ink/images/logo/512.png)
+For instance：![Beepen logo](http://www.bishen.ink/images/logo/512.png)
 
-（You can also put the image in your computer to your Onepen writing by draging and droping, or by copying and pasting）
+（You can also put the image in your computer to your Beepen writing by draging and droping, or by copying and pasting）
 
 ---
 
@@ -88,7 +88,7 @@ Item One   | Item Two
 
 For example：
 
-Onepen's advantages  | Onepen's disadvantages
+Beepen's advantages  | Beepen's disadvantages
 ------ | -----
 automatical format | too easy
 for free     | think little of profit
