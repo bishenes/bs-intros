@@ -1,9 +1,9 @@
 {
     "id": "8c5b108ad26449bf939dea681338c45f",
-    "displayName": "格式",
+    "displayName": "格式宝典",
     "chapters": [
         {
-            "id": "d6529999c4794b35b9b017f9c10fe889",
+            "id": "c2d8d92f876b4fbdac2ba1839c3b544f",
             "displayName": "新的文章",
             "created_at": "2017-10-26T06:06:46.791Z",
             "updated_at": "2017-10-26T06:06:46.791Z"
@@ -11,20 +11,20 @@
         {
             "id": "c0b136604172441a80f15a18ecfde23d",
             "displayName": "新的文章",
-            "created_at": "2017-11-17T14:28:50.213Z",
-            "updated_at": "2017-11-17T14:28:50.213Z"
+            "created_at": "2017-10-26T06:06:46.791Z",
+            "updated_at": "2017-10-26T06:06:46.791Z"
         },
         {
             "id": "9ebfa6ae08b54fbb997f5cd385db322d",
             "displayName": "新的文章",
-            "created_at": "2017-11-17T14:45:43.157Z",
-            "updated_at": "2017-11-17T14:45:43.157Z"
+            "created_at": "2017-11-17T14:28:50.213Z",
+            "updated_at": "2017-11-17T14:28:50.213Z"
         },
         {
-            "id": "7127adc3384a447bad1b59a21d6a47ad",
+            "id": "b0f32e5ca9b4424586d1e9fd030b55f7",
             "displayName": "新的文章",
-            "created_at": "2017-12-27T10:37:39.866Z",
-            "updated_at": "2017-12-27T10:37:39.866Z"
+            "created_at": "2017-11-17T14:45:43.157Z",
+            "updated_at": "2017-11-17T14:45:43.157Z"
         }
     ],
     "filters": [],
