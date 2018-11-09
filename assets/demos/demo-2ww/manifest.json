@@ -1,18 +1,12 @@
 {
-  "id": "demo-1zw",
-  "displayName": "如何写作文？",
+  "id": "demo-2ww",
+  "displayName": "如何写网文？",
   "chapters": [
     {
-      "id": "demo-zw0"
+      "id": "demo-ww0"
     },
     {
-      "id": "demo-zw1"
-    },
-    {
-      "id": "demo-zw2"
-    },
-    {
-      "id": "demo-zw3"
+      "id": "demo-ww1"
     }
   ],
   "filters": [
