@@ -1,6 +1,7 @@
 {
   "id": "demo-1zw",
   "displayName": "如何写作文？",
+  "cateName": "作文",
   "chapters": [
     {
       "id": "demo-zw0"
@@ -14,8 +15,5 @@
     {
       "id": "demo-zw3"
     }
-  ],
-  "filters": [
-  ],
-  "storeFormatVer": 1
+  ]
 }

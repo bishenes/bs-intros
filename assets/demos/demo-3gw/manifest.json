@@ -1,6 +1,7 @@
 {
   "id": "demo-3gw",
   "displayName": "如何写公文？",
+  "cateName": "公文",
   "chapters": [
     {
       "id": "demo-gw0"
@@ -11,8 +12,5 @@
     {
       "id": "demo-gw2"
     }
-  ],
-  "filters": [
-  ],
-  "storeFormatVer": 1
+  ]
 }
