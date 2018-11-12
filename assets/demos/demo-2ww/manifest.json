@@ -1,6 +1,7 @@
 {
   "id": "demo-2ww",
   "displayName": "如何写网文？",
+  "cateName": "玄幻",
   "chapters": [
     {
       "id": "demo-ww0"
@@ -8,8 +9,5 @@
     {
       "id": "demo-ww1"
     }
-  ],
-  "filters": [
-  ],
-  "storeFormatVer": 1
+  ]
 }
